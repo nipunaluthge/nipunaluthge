@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Nipun Aluthge</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunaluthge" alt="nipunaluthge" /></a> </p>
+<p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunaluthge" alt="nipunaluthge" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
