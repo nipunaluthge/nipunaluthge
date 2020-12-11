@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 <p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipunaluthge&show_icons=true&locale=en" alt="nipunaluthge" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipunaluthge&" alt="nipunaluthge" /></p>
+<p style="margin: auto; display: block"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipunaluthge&" alt="nipunaluthge" /></p>
 <div/>
